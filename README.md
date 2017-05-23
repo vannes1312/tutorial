@@ -5,4 +5,4 @@
 1. Δημιουργούμε αντίγραφο της παρουσίασης μας ως Παρουσίαση Google.
 
 Πηγαίνουμε στη σελίδα https://docs.google.com/presentation/u/0/ και, επιλέγουμε το εικονίδιο ανοίγματος αρχείου (φάκελος, δεξιά).
-![GitHub Logo](tutorial/1.png)
+![1](https://github.com/vannes1312/tutorial/blob/master/1.png)
