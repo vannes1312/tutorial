@@ -15,4 +15,6 @@
 
 ![3](https://github.com/vannes1312/tutorial/blob/master/3.png) <br><br>
 
-Στο αναδυόμενο παράθυρο επιλέγουμε Ok, και κατόπιν 
+Στο αναδυόμενο παράθυρο επιλέγουμε **Δημοσίευση (Publish)**. <br><br> 
+
+![4](https://github.com/vannes1312/tutorial/blob/master/4.png) <br><br>
