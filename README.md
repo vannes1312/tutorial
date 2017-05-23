@@ -15,6 +15,10 @@
 
 ![3](https://github.com/vannes1312/tutorial/blob/master/3.png) <br><br>
 
-Στο αναδυόμενο παράθυρο επιλέγουμε **Δημοσίευση (Publish)**. <br><br> 
+Στο αναδυόμενο παράθυρο επιλέγουμε **Δημοσίευση (Publish)**, και κατόπιν επιβεβαιώνουμε την επιλογή μας. <br><br> 
 
 ![4](https://github.com/vannes1312/tutorial/blob/master/4.png) <br><br>
+
+Από την επόμενη οθόνη αντιγράφουμε τον σύνδεσμο που παρήγαγε η Google για το αρχείο μας, και το παραθέτουμε ως σύνδεσμο στην πλατφόρμα του e-learing (λεπτομέρειες παρακάτω).
+
+![5](https://github.com/vannes1312/tutorial/blob/master/5.png) <br><br>
