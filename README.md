@@ -8,3 +8,5 @@
 ![1](https://github.com/vannes1312/tutorial/blob/master/1.png) <br><br>
 
 Στο παράθυρο που αναδύεται επιλέγουμε **Μεταφόρτωση (Upload)**, και επιλέγουμε το αρχείο που θέλουμε να ανεβάσουμε.
+<br><br>
+![2](https://github.com/vannes1312/tutorial/blob/master/2.png) <br><br>
