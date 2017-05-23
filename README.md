@@ -12,3 +12,7 @@
 ![2](https://github.com/vannes1312/tutorial/blob/master/2.png) <br><br>
 
 Αφού το αρχείο μας ανέβει στο Google Drive, ανήγει επιγραμμικά (online) στο πρόγραμμα περιήγησης. Από την μπάρα εντολών επιλέγουμε την καρτέλα Αρχείο (File) και επιλέγουμε **Δημοσίευση στον ιστό... (Publish to the web...)**. <br><br>
+
+![3](https://github.com/vannes1312/tutorial/blob/master/3.png) <br><br>
+
+Στο αναδυόμενο παράθυρο επιλέγουμε Ok, και κατόπιν 
